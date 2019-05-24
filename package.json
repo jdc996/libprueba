@@ -1,0 +1,22 @@
+{
+  "name": "prueba-lib",
+  "version": "0.0.1",
+  "description": "libreria de prueb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdc996/libprueba.git"
+  },
+  "keywords": [
+    "prueba"
+  ],
+  "author": "juan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jdc996/libprueba/issues"
+  },
+  "homepage": "https://github.com/jdc996/libprueba#readme"
+}
